@@ -1,0 +1,25 @@
+SYSC 4805 - Computer Systems Design Lab
+Group 2 - L1
+Nirda Ali
+Collins Mbogori
+Mario Shebib
+Cameron Chung
+
+Hello and welcome to our amazing project on the snowplow robot.
+
+When using our robot in a testing map, no other applications are needed
+as our project uses Lua coding to program our robot.
+
+Once the testing map is opened and our robot is loaded into it,
+go into the left_sensor, center_sensor, and right_sensor settings.
+Under the "Entity to detect" drop down menu, select the shape
+of the outer perimeter otherwise the robot will not work.
+
+If the robot is not on the starting platform, the robot is programmed
+to place itself on the starting platform once the simulation has started. 
+
+When ready, you can start the simulation and watch as our robot
+plows away all the snow from the desired area.
+
+Thank you for your time,
+Team Amethyst
