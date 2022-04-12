@@ -7,7 +7,7 @@ Cameron Chung
 
 Hello and welcome to our amazing project on the snowplow robot.
 
-When using our robot in a testing map, no other applications are needed
+When using our robot, "Project-Final#1.ttm" in a testing map, no other applications are needed
 as our project uses Lua coding to program our robot.
 
 Once the testing map is opened and our robot is loaded into it,
