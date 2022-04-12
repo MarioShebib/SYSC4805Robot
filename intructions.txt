@@ -5,7 +5,8 @@ Collins Mbogori
 Mario Shebib
 Cameron Chung
 
-Hello and welcome to our amazing project on the snowplow robot.
+Hello and welcome to our amazing project on the snowplow robot. Note this robot was created in
+version 4.2 of Coppelia Sim.
 
 When using our robot, "Project-FinalBot.ttm" in a testing map, no other applications are needed
 as our project uses Lua coding to program our robot.
